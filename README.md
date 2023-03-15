@@ -3,11 +3,13 @@ Mermaid記法の確認用レポジトリ
 
 ## Flow
 
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
 
 ## Sequence diagram
 
