@@ -5,3 +5,10 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+```mermaid
+graph TD;
+A-->C;
+A-->B;
+C-->B;
+```
