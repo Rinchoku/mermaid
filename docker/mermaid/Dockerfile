@@ -1,3 +1,3 @@
 FROM minlag/mermaid-cli
 
-WORKDIR /var/www
+WORKDIR /data
